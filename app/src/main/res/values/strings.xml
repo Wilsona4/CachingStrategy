@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CachingStrategy</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="type">Type</string>
+    <string name="description">Description</string>
+    <string name="address">Address</string>
+    <string name="error_occurred">Error Occurred</string>
+</resources>
